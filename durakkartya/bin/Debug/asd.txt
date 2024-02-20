@@ -1,0 +1,4 @@
+36|2|Káró Hatos 1|12|1|0|1|1
+Káró Kilences 4,Pikk Dáma 7,Kőr Kilences 4,Pikk Bubi 6,Treff Király 8,Kőr Ász 9,Kőr Király 8,Treff Dáma 7,Treff Nyolcas 3,Treff Kilences 4,Káró Hetes 2,Treff Hatos 1,Káró Nyolcas 3,Pikk Hetes 2,Kőr Nyolcas 3,Kőr Dáma 7,Pikk Ász 9,Kőr Hatos 1,Pikk Tizes 5,Treff Ász 9,Kőr Bubi 6,Kőr Tizes 5,Pikk Király 8,Káró Tizes 5,Káró Ász 9,Treff Tizes 5,Treff Bubi 6,Káró Dáma 7,Káró Bubi 6,Treff Hetes 2,Pikk Nyolcas 3,Kőr Hetes 2,Pikk Kilences 4,Pikk Hatos 1,Káró Király 8,Káró Hatos 1
+True|Káró Kilences 4,Pikk Dáma 7,Pikk Bubi 6,Kőr Ász 9
+False|Kőr Király 8,Treff Dáma 7,Treff Nyolcas 3,Káró Hetes 2,Treff Hatos 1
